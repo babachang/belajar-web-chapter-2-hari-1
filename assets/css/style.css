@@ -1,0 +1,22 @@
+.bg-orange{
+    background-color: grey;
+}
+.text-grey{
+    color: grey;
+    
+}
+.navbar{
+    padding-left: 70px;
+    height: 7vh;
+}
+ img{
+    
+    width: 90px;
+    height: 40px;
+}
+.container-fluid{
+        height: 97vh;
+}
+.container-form{
+    width: 400px;
+}
